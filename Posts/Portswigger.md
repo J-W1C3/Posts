@@ -11,4 +11,4 @@
 | [Authentication bypass via information disclosure](Portswigger/InfoDisclosure/InfoDisclosure04PS.md) | Easy | Github | Esp |
 | [Authentication bypass via information disclosure](https://medium.com/@josewice7/infodiscl04-authentication-bypass-via-information-disclosure-portswigger-90eb03f2fbbd) | Easy | Medium | Eng |
 | [Information disclosure in version control history](Portswigger/InfoDisclosure/InfoDisclosure05PS.md) | Normal | Github | Esp |
-| [Information disclosure in version control history]() | Normal | Medium | Eng |
+| [Information disclosure in version control history](https://medium.com/@josewice7/infodiscl05-information-disclosure-in-version-control-history-portswigger-67ee20f34929) | Normal | Medium | Eng |
