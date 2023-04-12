@@ -10,3 +10,5 @@
 | [Source code disclosure via backup files](https://medium.com/@josewice7/infodiscl03-source-code-disclosure-via-backup-files-portswigger-80a4941e7c7b) | Easy | Medium | Eng |
 | [Authentication bypass via information disclosure](Portswigger/InfoDisclosure/InfoDisclosure04PS.md) | Easy | Github | Esp |
 | [Authentication bypass via information disclosure](https://medium.com/@josewice7/infodiscl04-authentication-bypass-via-information-disclosure-portswigger-90eb03f2fbbd) | Easy | Medium | Eng |
+| [Information disclosure in version control history](Portswigger/InfoDisclosure/InfoDisclosure05PS.md) | Normal | Github | Esp |
+| [Information disclosure in version control history]() | Normal | Medium | Eng |
