@@ -1,13 +1,13 @@
 # SSRF
 | Name | Difficulty | See in | Language |
 | --- | --- | --- | --- |
-| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](CTF/2023/CyberArenaDeloitte/Web/SSRF2SSTI.md) | Easy | Github | ESP |
-| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](https://medium.com/@josewice7/chaining-vulnerabilities-to-achieve-remote-code-execution-rce-15a4aa05ee44) | Easy | Medium | ENG |
+| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](CTF/2023/CyberArenaDeloitte/Web/SSRF2SSTI.md) | Normal | Github | ESP |
+| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](https://medium.com/@josewice7/chaining-vulnerabilities-to-achieve-remote-code-execution-rce-15a4aa05ee44) | Normal | Medium | ENG |
 # SSTI
 | Name | Difficulty | See in | Language |
 | --- | --- | --- | --- |
-| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](CTF/2023/CyberArenaDeloitte/Web/SSRF2SSTI.md) | Easy | Github | ESP |
-| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](https://medium.com/@josewice7/chaining-vulnerabilities-to-achieve-remote-code-execution-rce-15a4aa05ee44) | Easy | Medium | ENG |
+| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](CTF/2023/CyberArenaDeloitte/Web/SSRF2SSTI.md) | Normal | Github | ESP |
+| [Chaining vulnerabilities to achieve Remote Code Execution (RCE)](https://medium.com/@josewice7/chaining-vulnerabilities-to-achieve-remote-code-execution-rce-15a4aa05ee44) | Normal | Medium | ENG |
 # LFI
 | Name | Difficulty | See in | Language |
 | --- | --- | --- | --- |
