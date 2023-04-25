@@ -13,6 +13,12 @@
 | --- | --- | --- | --- |
 | [LFI to RCE via Log Poisoning](CTF/2023/CyberArenaDeloitte/Web/LogPoisoning2RCE.md) | Easy | Github | ESP |
 | [LFI to RCE via Log Poisoning](https://medium.com/@josewice7/lfi-to-rce-via-log-poisoning-db3e0e7a1cf1) | Easy | Medium | ENG |
+# File Uploads
+| Name | Difficulty | See in | Language |
+| --- | --- | --- | --- |
+| [Arbitrary file read via Symbolic Links](CTF/2023/NullConCTF/Web/ZipSymlinks.md) | Easy | Github | ESP |
+| [Arbitrary file read via Symbolic Links](https://medium.com/@josewice7/arbitrary-file-read-via-symbolic-links-f794e6fd2c2b) | Easy | Medium | ENG |
+
 # Information Disclosure
 | Name | Difficulty | See in | Language |
 | --- | --- | --- | --- |

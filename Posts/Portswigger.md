@@ -3,7 +3,7 @@
 | Name | Difficulty | See in | Language |
 | --- | --- | --- | --- |
 | [Information disclosure in error messages](Portswigger/InfoDisclosure/InfoDisclosure01PS.md) | Easy | Github | ESP |
-| [Information disclosure in error messages](https://medium.com/@josewice7/infodiscl01-information-disclosure-in-error-messages-portswigger-3c615bd2d0c9) | Easy | Github | ENG |
+| [Information disclosure in error messages](https://medium.com/@josewice7/infodiscl01-information-disclosure-in-error-messages-portswigger-3c615bd2d0c9) | Easy | Medium | ENG |
 | [Information disclosure on debug page](Portswigger/InfoDisclosure/InfoDisclosure02PS.md) | Easy | Github | ESP |
 | [Information disclosure on debug page](https://medium.com/@josewice7/infodiscl02-information-disclosure-on-debug-page-portswigger-5c2fb8f1cb7d) | Easy | Medium | ENG |
 | [Source code disclosure via backup files](Portswigger/InfoDisclosure/InfoDisclosure03PS.md) | Easy | Github | ESP |
