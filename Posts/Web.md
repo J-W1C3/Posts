@@ -1,3 +1,8 @@
+# SQL Injection
+| Name | Difficulty | See in | Language |
+| --- | --- | --- | --- |
+|  [SQL injection attack, listing the database contents on non-Oracle databases](Portswigger/SQLi/SQLInjection09PS.md) | Normal  | Github | ESP |
+| [SQL injection attack, listing the database contents on non-Oracle databases](https://medium.com/@josewice7/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-39c420d7a08f) | Normal | Medium | ENG |
 # SSRF
 | Name | Difficulty | See in | Language |
 | --- | --- | --- | --- |
